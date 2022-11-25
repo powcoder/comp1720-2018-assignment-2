@@ -1,0 +1,21 @@
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+# put *your* name and uid here
+name:
+uid:
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets:
+  - comment: play.png
+    url: https://image.flaticon.com/icons/png/512/8/8918.png
+    licence: Creative Commons
+
+assets:
+  - comment: stop.png
+    url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoP1rIeKDZ4fSRCy3UFnb7w9Y0BiYSRvvL8_6aS6F3TTxHZWto
+    licence: Creative Commons
